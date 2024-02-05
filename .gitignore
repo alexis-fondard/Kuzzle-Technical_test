@@ -1,0 +1,13 @@
+# Node
+kuzzle-chat-frontend/*.log
+kuzzle-chat-frontend/node_modules/
+
+# Other
+kuzzle-chat-frontend/.DS_STORE
+kuzzle-chat-frontend/*#
+kuzzle-chat-frontend/*~
+
+# Build files
+kuzzle-chat-frontend/dist/**/*
+
+playground/node_modules/
